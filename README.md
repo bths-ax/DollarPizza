@@ -6,4 +6,4 @@ Repository was not cloned due to npm dependencies being too outdated to run prop
 
 ## Final Product
 
-![Final Product](final.png)
+![Final Product](assets/final.png)
